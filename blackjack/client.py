@@ -1,4 +1,4 @@
-class BlackJackClient():
+class Client():
 
     def __init__(self,server):
         #create connection
